@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+body{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+.bg-dark {
+    background-color: #712316!important;
+}
+
+span .navbar-toggler-icon, .navbar-light .navbar-brand , .navbar-light .navbar-nav .nav-link, .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link ,.navbar-light .navbar-nav .nav-link.disabled{
+    color: rgba(249, 243, 243, 0.9);
+}
+
